@@ -43,6 +43,5 @@ export default {
   bottom:0;
   padding: 10px;
   overflow-y: auto;
-  background-color: chocolate;
 }
 </style>
